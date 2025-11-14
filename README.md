@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihoglueyup" alt="salihoglueyup" /></a> </p>
 
-- 🔭 I’m currently working on [Python Projects](Not Avaible)
+- 🔭 I’m currently working on [Python Projects]
 
 - 🌱 I’m currently learning **Cybersecurity fundamentals and Python**
 
