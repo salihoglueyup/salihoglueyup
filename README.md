@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Python Projects**
 
-- 👨‍💻 All of my projects are available at [Check my repos below](Check my repos below)
+- 👨‍💻 All of my projects are available at [Check my repos below]
 
 - 💬 Ask me about **Python BackEnd / Python FrontEnd**
 
