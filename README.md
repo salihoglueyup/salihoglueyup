@@ -54,10 +54,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats-godkingjay.vercel.app/api?username=salihoglueyup&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=salihoglueyup&layout=compact&theme=default" />
-
+  <!-- Try public alternative first -->
+  <img height="170" src="https://github-readme-stats-godkingjay.vercel.app/api?username=salihoglueyup&show_icons=true&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=salihoglueyup&layout=compact&theme=default" alt="Top languages" />
 </p>
+
+<!-- Fallback badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/salihoglueyup?style=flat" alt="Top language" />
+  <img src="https://img.shields.io/github/stars/salihoglueyup?style=social" alt="GitHub stars" />
+</p>
+
+<!-- If you prefer self-hosted, replace above URLs with your vercel URL:
+https://github-readme-stats-<YOUR_USERNAME>.vercel.app/api?username=salihoglueyup&show_icons=true
+-->
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salihoglueyup" />
