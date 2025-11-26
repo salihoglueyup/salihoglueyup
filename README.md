@@ -54,8 +54,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=salihoglueyup&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihoglueyup&layout=compact&theme=default" />
+  <img height="170" src="https://github-readme-stats-godkingjay.vercel.app/api?username=salihoglueyup&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=salihoglueyup&layout=compact&theme=default" />
+
 </p>
 
 <p align="center">
