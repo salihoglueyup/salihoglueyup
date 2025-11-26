@@ -54,9 +54,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Try public alternative first -->
-  <img height="170" src="https://github-readme-stats-godkingjay.vercel.app/api?username=salihoglueyup&show_icons=true&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=salihoglueyup&layout=compact&theme=default" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=salihoglueyup&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihoglueyup&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
 <!-- Fallback badges -->
