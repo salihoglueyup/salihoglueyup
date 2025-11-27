@@ -2,7 +2,7 @@
 <h3 align="center">Management Information Systems Student | IT Intern | Cybersecurity & Backend Developer</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalihoglueyup&count_bg=%23238636&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="hits"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=salihoglueyup.salihoglueyup&left_text=Profile%20Views&right_color=%230e75b6&left_color=555555" alt="visitor badge"/>
 </p>
 
 ---
