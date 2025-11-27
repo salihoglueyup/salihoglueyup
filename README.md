@@ -62,7 +62,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salihoglueyup&theme=ocean_blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salihoglueyup&background=151515&ring=0e75b6&fire=0e75b6&currStreakNum=ffffff&currStreakLabel=0e75b6&sideNums=ffffff&sideLabels=ffffff&dates=cccccc&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
