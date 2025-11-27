@@ -2,7 +2,7 @@
 <h3 align="center">Management Information Systems Student | IT Intern | Cybersecurity & Backend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salihoglueyup&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalihoglueyup&count_bg=%23238636&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="hits"/>
 </p>
 
 ---
@@ -55,14 +55,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salihoglueyup&show_icons=true&theme=nightowl&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salihoglueyup&layout=compact&theme=nightowl&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salihoglueyup&show_icons=true&theme=ocean_blue&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salihoglueyup&layout=compact&theme=ocean_blue&hide_border=true" alt="Top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=salihoglueyup&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=salihoglueyup&theme=ocean_blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
