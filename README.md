@@ -42,7 +42,7 @@
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,mysql,postgres,mongodb,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,vite,mysql,postgres,mongodb,sqlite&perline=14" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
