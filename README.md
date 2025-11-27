@@ -38,7 +38,7 @@
 ## 🛠️ Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css&perline=14" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode,pycharm,postman,arduino&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,pycharm,webstorm,postman,arduino&perline=14" />
   </a>
 </p>
 
