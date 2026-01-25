@@ -50,11 +50,11 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast**. I bridge the ga
 <div align="center">
   <h3>🛡️ Cybersecurity Profile</h3>
   <a href="https://app.hackthebox.com/profile/salihoglueyup">
-    <img src="https://www.hackthebox.eu/badge/image/123456" alt="HackTheBox Profile" />
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="HackTheBox Profile" />
   </a>
   <!-- CHANGE username "salihoglueyup" to your actual TryHackMe username -->
   <a href="https://tryhackme.com/p/salihoglueyup">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/salihoglueyup.png" alt="TryHackMe Profile" />
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-161e2d?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
 </div>
 
@@ -124,13 +124,15 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast**. I bridge the ga
 
 <div align="center">
   <h3>🧠 Algorithm Mastery</h3>
-  <img src="https://leetcard.jacoblin.cool/salihoglueyup?theme=tokyonight&font=Source%20Code%20Pro" alt="LeetCode Stats" />
+  <!-- CHANGE username "salihoglueyup" to your actual LeetCode username -->
+  <!-- <img src="https://leetcard.jacoblin.cool/salihoglueyup?theme=tokyonight&font=Source%20Code%20Pro" alt="LeetCode Stats" /> -->
+  <!-- LEETCODE ERROR: The username 'salihoglueyup' was not found. Please update the username in the link above and uncomment to enable. -->
 </div>
 
 <div align="center">
-  <h3>♟️ Strategic Thinking</h3>
   <!-- CHANGE username "salihoglueyup" to your actual Chess.com or Lichess username -->
-  <img src="https://github-readme-chess-stats.vercel.app/api?username=salihoglueyup&theme=tokyonight&hide_border=true" alt="Chess Stats" />
+  <!-- <img src="https://github-readme-chess-stats.vercel.app/api?username=salihoglueyup&theme=tokyonight&hide_border=true" alt="Chess Stats" /> -->
+  <!-- CHESS ERROR: The username 'salihoglueyup' was not found. Please update the username in the link above and uncomment to enable. -->
 </div>
 
 <br/>

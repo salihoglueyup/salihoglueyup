@@ -50,11 +50,11 @@ Ben, **Yönetim Bilişim Sistemleri Öğrencisi** ve **Full Stack Geliştiriciyi
 <div align="center">
   <h3>🛡️ Siber Güvenlik Profili</h3>
   <a href="https://app.hackthebox.com/profile/salihoglueyup">
-    <img src="https://www.hackthebox.eu/badge/image/123456" alt="HackTheBox Profili" />
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profil-111927?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="HackTheBox Profili" />
   </a>
   <!-- TryHackMe kullanıcı adınızı buraya yazın -->
   <a href="https://tryhackme.com/p/salihoglueyup">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/salihoglueyup.png" alt="TryHackMe Profili" />
+    <img src="https://img.shields.io/badge/TryHackMe-Profil-161e2d?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profili" />
   </a>
 </div>
 
@@ -124,13 +124,15 @@ Ben, **Yönetim Bilişim Sistemleri Öğrencisi** ve **Full Stack Geliştiriciyi
 
 <div align="center">
   <h3>🧠 Algoritma Ustalığı</h3>
-  <img src="https://leetcard.jacoblin.cool/salihoglueyup?theme=tokyonight&font=Source%20Code%20Pro" alt="LeetCode İstatistikleri" />
+  <!-- LeetCode kullanıcı adınızı buraya yazın -->
+  <!-- <img src="https://leetcard.jacoblin.cool/salihoglueyup?theme=tokyonight&font=Source%20Code%20Pro" alt="Algoritma Ustalığı" /> -->
+  <!-- LEETCODE HATASI: 'salihoglueyup' kullanıcı adı bulunamadı. Lütfen yukarıdaki linkte kullanıcı adınızı düzeltip yorum satırını kaldırın. -->
 </div>
 
 <div align="center">
-  <h3>♟️ Stratejik Düşünme</h3>
   <!-- Satranç kullanıcı adınızı buraya yazın -->
-  <img src="https://github-readme-chess-stats.vercel.app/api?username=salihoglueyup&theme=tokyonight&hide_border=true" alt="Satranç İstatistikleri" />
+  <!-- <img src="https://github-readme-chess-stats.vercel.app/api?username=salihoglueyup&theme=tokyonight&hide_border=true" alt="Satranç İstatistikleri" /> -->
+  <!-- SATRANÇ HATASI: 'salihoglueyup' kullanıcı adı bulunamadı. Lütfen yukarıdaki linkte kullanıcı adınızı düzeltip yorum satırını kaldırın. -->
 </div>
 
 <br/>
