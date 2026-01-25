@@ -1,0 +1,53 @@
+name: Guestbook Workflow
+on:
+  issues:
+    types: [opened, edited]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-guestbook:
+    if: contains(github.event.issue.labels.*.name, 'guestbook')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Guestbook
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const readmePath = 'README.md';
+            const readmeTrPath = 'README.tr.md';
+            const issue = context.payload.issue;
+            const user = issue.user.login;
+            const avatar = issue.user.avatar_url;
+            const body = issue.body.slice(0, 140).replace(/\n/g, ' '); // Max 140 chars, no newlines
+            const date = new Date().toISOString().split('T')[0];
+            
+            const entry = `| <img src="${avatar}" width="30"/> | **${user}**: ${body} | ${date} |\n`;
+            
+            // Function to update file
+            function updateFile(path, entry) {
+                if (fs.existsSync(path)) {
+                    let content = fs.readFileSync(path, 'utf8');
+                    if (content.includes('<!-- GUESTBOOK:START -->')) {
+                        const parts = content.split('<!-- GUESTBOOK:START -->');
+                        const endParts = parts[1].split('<!-- GUESTBOOK:END -->');
+                        // Add new entry to the top of the list
+                        let newContent = parts[0] + '<!-- GUESTBOOK:START -->\n' + entry + endParts[0] + '<!-- GUESTBOOK:END -->' + endParts[1];
+                        fs.writeFileSync(path, newContent);
+                    }
+                }
+            }
+
+            updateFile(readmePath, entry);
+            updateFile(readmeTrPath, entry);
+            
+      - name: Commit changes
+        run: |
+          git config --global user.name "Guestbook Bot"
+          git config --global user.email "bot@guestbook"
+          git add README.md README.tr.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "New Guestbook Entry from @${{ github.event.issue.user.login }}" && git push)

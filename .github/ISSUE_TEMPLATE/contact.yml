@@ -1,0 +1,25 @@
+name: Contact Template
+description: Contact me for anything
+title: "[Contact]: "
+labels: ["contact"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out!
+  - type: textarea
+    id: message
+    attributes:
+      label: Message
+      description: What do you want to tell me?
+      placeholder: Your message here...
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Email
+      description: Where can I reach you back?
+      placeholder: email@example.com
+    validations:
+      required: true

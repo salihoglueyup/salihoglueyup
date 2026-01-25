@@ -1,0 +1,19 @@
+name: Cyber Intel Workflow
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Run every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-cyber-news:
+    name: Update this repo's README with latest Cyber News
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://feeds.feedburner.com/TheHackersNews"
+          max_post_count: 5
+          readme_path: "README.md,README.tr.md"
+          comment_tag_name: "CYBER-NEWS-LIST"
+          commit_message: "Updated README with latest Cyber Security News"
