@@ -1,0 +1,82 @@
+name: Daily Quote Update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Her gün 06:00 UTC (09:00 TR)
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update Daily Quote
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            
+            // English quotes
+            const englishQuotes = [
+              { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
+              { text: "Code is poetry.", author: "WordPress" },
+              { text: "First, solve the problem. Then, write the code.", author: "John Johnson" },
+              { text: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.", author: "Martin Fowler" },
+              { text: "The best error message is the one that never shows up.", author: "Thomas Fuchs" },
+              { text: "Simplicity is the soul of efficiency.", author: "Austin Freeman" },
+              { text: "Make it work, make it right, make it fast.", author: "Kent Beck" },
+              { text: "Talk is cheap. Show me the code.", author: "Linus Torvalds" },
+              { text: "Programs must be written for people to read, and only incidentally for machines to execute.", author: "Harold Abelson" },
+              { text: "The only true wisdom is in knowing you know nothing.", author: "Socrates" }
+            ];
+            
+            // Turkish quotes
+            const turkishQuotes = [
+              { text: "Başarı, hazırlık ile fırsatın buluştuğu yerdir.", author: "Seneca" },
+              { text: "Hayat, bisiklete binmek gibidir. Dengenizi korumak için hareket etmeye devam etmelisiniz.", author: "Albert Einstein" },
+              { text: "Bugün yapabileceğini yarına bırakma.", author: "Benjamin Franklin" },
+              { text: "Öğrenmenin yaşı yoktur.", author: "Atatürk" },
+              { text: "Her şey pratikle mükemmelleşir.", author: "Türk Atasözü" },
+              { text: "Düşen kalkar, kalkmayan ise yolun başındadır.", author: "Türk Atasözü" },
+              { text: "En iyi hata mesajı hiç görünmeyen hata mesajıdır.", author: "Thomas Fuchs" },
+              { text: "Basitlik, verimliliğin ruhudur.", author: "Austin Freeman" },
+              { text: "Önce çalıştır, sonra düzelt, sonra hızlandır.", author: "Kent Beck" },
+              { text: "Konuşma kolay. Bana kodu göster.", author: "Linus Torvalds" }
+            ];
+            
+            const today = new Date();
+            const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24));
+            
+            const enQuote = englishQuotes[dayOfYear % englishQuotes.length];
+            const trQuote = turkishQuotes[dayOfYear % turkishQuotes.length];
+            
+            const quoteTable = '  <!-- DAILY-QUOTE:START -->\n' +
+              '  <table>\n' +
+              '    <tr>\n' +
+              '      <td>🇬🇧</td>\n' +
+              '      <td><i>"' + enQuote.text + '"</i></td>\n' +
+              '      <td>— ' + enQuote.author + '</td>\n' +
+              '    </tr>\n' +
+              '    <tr>\n' +
+              '      <td>🇹🇷</td>\n' +
+              '      <td><i>"' + trQuote.text + '"</i></td>\n' +
+              '      <td>— ' + trQuote.author + '</td>\n' +
+              '    </tr>\n' +
+              '  </table>\n' +
+              '  <!-- DAILY-QUOTE:END -->';
+            
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(
+              /<!-- DAILY-QUOTE:START -->[\s\S]*?<!-- DAILY-QUOTE:END -->/,
+              quoteTable
+            );
+            fs.writeFileSync('README.md', readme);
+            
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: Update daily quote"
+          git push

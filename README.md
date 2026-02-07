@@ -183,8 +183,6 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast**. I bridge the ga
 
 <div align="center">
   <h3>✨ Quote of the Day</h3>
-  <h3>✨ Quote of the Day</h3>
-  <img src="./.github/assets/quote.svg" alt="Quote" />
   <img src="./.github/assets/quote.svg" alt="Quote" />
   <br/>
   <!-- Daily Joke -->
@@ -218,6 +216,85 @@ Leave a comment in [Issue #1](https://github.com/salihoglueyup/readme/issues/1) 
 
 <div align="center">
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=5368369&theme=tokyonight" alt="StackOverflow Profile" />
+</div>
+
+---
+
+## 🎮 Gaming Profile
+
+<div align="center">
+  <a href="https://steamcommunity.com/id/salihoglueyup">
+    <img src="https://img.shields.io/badge/Steam-Profile-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
+  </a>
+  <a href="https://store.epicgames.com/u/salihoglueyup">
+    <img src="https://img.shields.io/badge/Epic%20Games-Profile-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games Profile" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🎮_Favorite_Game-Hearts_of_Iron_IV-4a4a4a?style=flat-square" />
+  <img src="https://img.shields.io/badge/⏱️_Hours_Played-500+-4a4a4a?style=flat-square" />
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/users/salihoglueyup">
+    <img src="https://img.shields.io/badge/AWS-Coming_Soon-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification" />
+  </a>
+  <a href="https://www.credly.com/users/salihoglueyup">
+    <img src="https://img.shields.io/badge/Google_Cloud-Coming_Soon-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Certification" />
+  </a>
+  <a href="https://www.credly.com/users/salihoglueyup">
+    <img src="https://img.shields.io/badge/Microsoft_Azure-Coming_Soon-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Certification" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/📚_Currently_Studying-AWS_Solutions_Architect-232F3E?style=flat-square&logo=amazon" />
+</div>
+
+---
+
+## 🌆 GitHub Skyline 2026
+
+<div align="center">
+  <a href="https://skyline.github.com/salihoglueyup/2026">
+    <img src="https://img.shields.io/badge/View_My_3D_Skyline-2026-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2026" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🏙️_Contributions-Building_My_City-4a4a4a?style=flat-square" />
+</div>
+
+---
+
+## 💭 Daily Inspiration / Günlük İlham
+
+<div align="center">
+  <!-- DAILY-QUOTE:START -->
+  <table>
+    <tr>
+      <td>🇬🇧</td>
+      <td><i>"The only way to do great work is to love what you do."</i></td>
+      <td>— Steve Jobs</td>
+    </tr>
+    <tr>
+      <td>🇹🇷</td>
+      <td><i>"Başarı, hazırlık ile fırsatın buluştuğu yerdir."</i></td>
+      <td>— Seneca</td>
+    </tr>
+  </table>
+  <!-- DAILY-QUOTE:END -->
+</div>
+
+---
+
+## 🌍 Location & Timezone
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Location-İstanbul,_Türkiye-1a1b27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🕐_Timezone-UTC+3_(Europe/Istanbul)-1a1b27?style=for-the-badge" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/☕_Best_Coding_Hours-22:00_--_04:00-4a4a4a?style=flat-square" />
+  <img src="https://img.shields.io/badge/📅_Available-Weekdays_&_Weekends-4a4a4a?style=flat-square" />
 </div>
 
 <!-- Footer Wave Animation -->
