@@ -59,8 +59,10 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast**. I bridge the ga
 <!-- Metrics Section -->
 <div align="center">
   <h2>📊 Detailed Metrics</h2>
-  <img src="https://raw.githubusercontent.com/salihoglueyup/salihoglueyup/main/github-metrics.svg" alt="Metrics" width="100%">
-  <!-- Note: This image will appear after the metrics workflow runs successfully for the first time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salihoglueyup&theme=tokyonight" alt="Profile Details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salihoglueyup&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salihoglueyup&theme=tokyonight&utcOffset=3" alt="Productive Time" />
 </div>
 
 ---
