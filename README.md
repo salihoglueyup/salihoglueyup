@@ -131,15 +131,6 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 
 ---
 
-## ⚡ Recent Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salihoglueyup&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-</div>
-<!--END_SECTION:activity-->
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -193,12 +184,6 @@ Leave a comment in [Issue #1](https://github.com/salihoglueyup/readme/issues/1) 
 ## 🚨 Latest Cyber Security News
 <!-- CYBER-NEWS-LIST:START -->
 <!-- CYBER-NEWS-LIST:END -->
-
----
-
-## ✍️ Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
