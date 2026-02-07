@@ -222,17 +222,17 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 ## 💭 Daily Inspiration / Günlük İlham
 
 <div align="center">
-  <!-- DAILY-QUOTE:START -->
+    <!-- DAILY-QUOTE:START -->
   <table>
     <tr>
       <td>🇬🇧</td>
-      <td><i>"The only way to do great work is to love what you do."</i></td>
-      <td>— Steve Jobs</td>
+      <td><i>"Programs must be written for people to read, and only incidentally for machines to execute."</i></td>
+      <td>— Harold Abelson</td>
     </tr>
     <tr>
       <td>🇹🇷</td>
-      <td><i>"Başarı, hazırlık ile fırsatın buluştuğu yerdir."</i></td>
-      <td>— Seneca</td>
+      <td><i>"Önce çalıştır, sonra düzelt, sonra hızlandır."</i></td>
+      <td>— Kent Beck</td>
     </tr>
   </table>
   <!-- DAILY-QUOTE:END -->
