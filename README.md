@@ -24,9 +24,7 @@
 ---
 
 <div align="center">
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salihoglueyup&theme=tokyonight" alt="Trophies" />
-</div>
+  <img src="https://github-trophies.vercel.app/?username=salihoglueyup&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
 </div>
 
 ---
@@ -35,8 +33,6 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-  <br/>
-  <img src="https://wttr.in/Istanbul.png?m" alt="Weather in Istanbul" />
 </div>
 
 I'm a **Full Stack Developer** and **Cybersecurity Enthusiast**. I bridge the gap between building robust applications and securing them. Scaling ideas from backend architecture to frontend interactivity is my playground.
@@ -122,23 +118,15 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast**. I bridge the ga
   </picture>
 </div>
 
-<div align="center">
-  <h3>🧠 Algorithm Mastery</h3>
-  <!-- CHANGE username "salihoglueyup" to your actual LeetCode username -->
-  <!-- <img src="https://leetcard.jacoblin.cool/salihoglueyup?theme=tokyonight&font=Source%20Code%20Pro" alt="LeetCode Stats" /> -->
-  <!-- LEETCODE ERROR: The username 'salihoglueyup' was not found. Please update the username in the link above and uncomment to enable. -->
-</div>
-
-<div align="center">
-  <!-- CHANGE username "salihoglueyup" to your actual Chess.com or Lichess username -->
-  <!-- <img src="https://github-readme-chess-stats.vercel.app/api?username=salihoglueyup&theme=tokyonight&hide_border=true" alt="Chess Stats" /> -->
-  <!-- CHESS ERROR: The username 'salihoglueyup' was not found. Please update the username in the link above and uncomment to enable. -->
-</div>
+<!-- Algorithm & Chess stats hidden - update usernames to enable
+LeetCode: https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=tokyonight
+Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
+-->
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salihoglueyup&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=salihoglueyup&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
