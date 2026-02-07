@@ -172,28 +172,6 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 
 ---
 
-## 📖 Repository Guestbook
-
-Leave a comment in [Issue #1](https://github.com/salihoglueyup/readme/issues/1) with the label `guestbook` to sign here!
-
-| Avatar | User : Message | Date |
-| :--- | :--- | :--- |
-<!-- GUESTBOOK:START -->
-<!-- GUESTBOOK:END -->
-
----
-
-## 🚨 Latest Cyber Security News
-<!-- CYBER-NEWS-LIST:START -->
-<!-- CYBER-NEWS-LIST:END -->
-
----
-
-<div align="center">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=5368369&theme=tokyonight" alt="StackOverflow Profile" />
-</div>
-
----
 
 ## 🎮 Gaming Profile
 
