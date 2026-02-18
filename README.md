@@ -222,17 +222,17 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 ## 💭 Daily Inspiration / Günlük İlham
 
 <div align="center">
-                        <!-- DAILY-QUOTE:START -->
+                          <!-- DAILY-QUOTE:START -->
   <table>
     <tr>
       <td>🇬🇧</td>
-      <td><i>"Programs must be written for people to read, and only incidentally for machines to execute."</i></td>
-      <td>— Harold Abelson</td>
+      <td><i>"The only true wisdom is in knowing you know nothing."</i></td>
+      <td>— Socrates</td>
     </tr>
     <tr>
       <td>🇹🇷</td>
-      <td><i>"Önce çalıştır, sonra düzelt, sonra hızlandır."</i></td>
-      <td>— Kent Beck</td>
+      <td><i>"Konuşma kolay. Bana kodu göster."</i></td>
+      <td>— Linus Torvalds</td>
     </tr>
   </table>
   <!-- DAILY-QUOTE:END -->
