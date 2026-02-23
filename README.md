@@ -222,17 +222,17 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 ## 💭 Daily Inspiration / Günlük İlham
 
 <div align="center">
-                                  <!-- DAILY-QUOTE:START -->
+                                    <!-- DAILY-QUOTE:START -->
   <table>
     <tr>
       <td>🇬🇧</td>
-      <td><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i></td>
-      <td>— Martin Fowler</td>
+      <td><i>"The best error message is the one that never shows up."</i></td>
+      <td>— Thomas Fuchs</td>
     </tr>
     <tr>
       <td>🇹🇷</td>
-      <td><i>"Öğrenmenin yaşı yoktur."</i></td>
-      <td>— Atatürk</td>
+      <td><i>"Her şey pratikle mükemmelleşir."</i></td>
+      <td>— Türk Atasözü</td>
     </tr>
   </table>
   <!-- DAILY-QUOTE:END -->
