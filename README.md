@@ -222,17 +222,17 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 ## 💭 Daily Inspiration / Günlük İlham
 
 <div align="center">
-                                                  <!-- DAILY-QUOTE:START -->
+                                                    <!-- DAILY-QUOTE:START -->
   <table>
     <tr>
       <td>🇬🇧</td>
-      <td><i>"Code is poetry."</i></td>
-      <td>— WordPress</td>
+      <td><i>"First, solve the problem. Then, write the code."</i></td>
+      <td>— John Johnson</td>
     </tr>
     <tr>
       <td>🇹🇷</td>
-      <td><i>"Hayat, bisiklete binmek gibidir. Dengenizi korumak için hareket etmeye devam etmelisiniz."</i></td>
-      <td>— Albert Einstein</td>
+      <td><i>"Bugün yapabileceğini yarına bırakma."</i></td>
+      <td>— Benjamin Franklin</td>
     </tr>
   </table>
   <!-- DAILY-QUOTE:END -->
