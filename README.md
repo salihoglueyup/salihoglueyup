@@ -222,17 +222,17 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 ## 💭 Daily Inspiration / Günlük İlham
 
 <div align="center">
-                                                    <!-- DAILY-QUOTE:START -->
+                                                      <!-- DAILY-QUOTE:START -->
   <table>
     <tr>
       <td>🇬🇧</td>
-      <td><i>"First, solve the problem. Then, write the code."</i></td>
-      <td>— John Johnson</td>
+      <td><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i></td>
+      <td>— Martin Fowler</td>
     </tr>
     <tr>
       <td>🇹🇷</td>
-      <td><i>"Bugün yapabileceğini yarına bırakma."</i></td>
-      <td>— Benjamin Franklin</td>
+      <td><i>"Öğrenmenin yaşı yoktur."</i></td>
+      <td>— Atatürk</td>
     </tr>
   </table>
   <!-- DAILY-QUOTE:END -->
