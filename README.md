@@ -222,16 +222,16 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 ## 💭 Daily Inspiration / Günlük İlham
 
 <div align="center">
-                                                        <!-- DAILY-QUOTE:START -->
+                                                          <!-- DAILY-QUOTE:START -->
   <table>
     <tr>
       <td>🇬🇧</td>
-      <td><i>"The best error message is the one that never shows up."</i></td>
-      <td>— Thomas Fuchs</td>
+      <td><i>"Simplicity is the soul of efficiency."</i></td>
+      <td>— Austin Freeman</td>
     </tr>
     <tr>
       <td>🇹🇷</td>
-      <td><i>"Her şey pratikle mükemmelleşir."</i></td>
+      <td><i>"Düşen kalkar, kalkmayan ise yolun başındadır."</i></td>
       <td>— Türk Atasözü</td>
     </tr>
   </table>
