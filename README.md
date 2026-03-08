@@ -222,17 +222,17 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 ## 💭 Daily Inspiration / Günlük İlham
 
 <div align="center">
-                                                            <!-- DAILY-QUOTE:START -->
+                                                              <!-- DAILY-QUOTE:START -->
   <table>
     <tr>
       <td>🇬🇧</td>
-      <td><i>"Make it work, make it right, make it fast."</i></td>
-      <td>— Kent Beck</td>
+      <td><i>"Talk is cheap. Show me the code."</i></td>
+      <td>— Linus Torvalds</td>
     </tr>
     <tr>
       <td>🇹🇷</td>
-      <td><i>"En iyi hata mesajı hiç görünmeyen hata mesajıdır."</i></td>
-      <td>— Thomas Fuchs</td>
+      <td><i>"Basitlik, verimliliğin ruhudur."</i></td>
+      <td>— Austin Freeman</td>
     </tr>
   </table>
   <!-- DAILY-QUOTE:END -->
