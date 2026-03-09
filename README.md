@@ -222,17 +222,17 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 ## 💭 Daily Inspiration / Günlük İlham
 
 <div align="center">
-                                                              <!-- DAILY-QUOTE:START -->
+                                                                <!-- DAILY-QUOTE:START -->
   <table>
     <tr>
       <td>🇬🇧</td>
-      <td><i>"Talk is cheap. Show me the code."</i></td>
-      <td>— Linus Torvalds</td>
+      <td><i>"Programs must be written for people to read, and only incidentally for machines to execute."</i></td>
+      <td>— Harold Abelson</td>
     </tr>
     <tr>
       <td>🇹🇷</td>
-      <td><i>"Basitlik, verimliliğin ruhudur."</i></td>
-      <td>— Austin Freeman</td>
+      <td><i>"Önce çalıştır, sonra düzelt, sonra hızlandır."</i></td>
+      <td>— Kent Beck</td>
     </tr>
   </table>
   <!-- DAILY-QUOTE:END -->
