@@ -12,7 +12,7 @@ jobs:
     if: contains(github.event.issue.labels.*.name, 'guestbook')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       - name: Update Guestbook
         uses: actions/github-script@v6
         with:
